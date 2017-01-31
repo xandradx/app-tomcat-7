@@ -1,1 +1,1 @@
-# app-tomcat-7
+# Deploy an Application on Openshift based on TOMCAT 7
