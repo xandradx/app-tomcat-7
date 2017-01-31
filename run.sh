@@ -6,6 +6,7 @@ MAX_UPLOAD_SIZE=${MAX_UPLOAD_SIZE:-52428800}
 
 #export CATALINA_OPTS="${CATALINA_OPTS}"
 
+#Example configuration file
 CONF=/opt/apache-tomcat/webapps/ROOT/WEB-INF/classes/META-INF/persistence.xml
 
 cat << EOF > /opt/apache-tomcat/conf/tomcat-users.xml
